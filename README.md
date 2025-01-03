@@ -1,7 +1,5 @@
-## Tugas Besar Desain dan Pemrograman Web
- **Kelompok 2  :**
-1. Nanda Fadillah Wulandari
-2. Safa Rizkiana
-3. Febriani Tazkiyatun Nupus
-4. Franciska Suwarsih
-5. Sabina Triasih Dini January  
+## Tugas Besar Integrasi Aplikasi Enterprise
+ **Kelompok 10  :**
+1. Franciska Suwarsih
+2. Sabina Triasih Dini January
+3. Rozan Nabawi
